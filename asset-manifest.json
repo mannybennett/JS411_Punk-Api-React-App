@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JS411_Punk-Api-React-App/static/css/main.4f985328.css",
+    "main.js": "/JS411_Punk-Api-React-App/static/js/main.2de346ce.js",
+    "static/js/787.3d6454e7.chunk.js": "/JS411_Punk-Api-React-App/static/js/787.3d6454e7.chunk.js",
+    "index.html": "/JS411_Punk-Api-React-App/index.html",
+    "main.4f985328.css.map": "/JS411_Punk-Api-React-App/static/css/main.4f985328.css.map",
+    "main.2de346ce.js.map": "/JS411_Punk-Api-React-App/static/js/main.2de346ce.js.map",
+    "787.3d6454e7.chunk.js.map": "/JS411_Punk-Api-React-App/static/js/787.3d6454e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f985328.css",
+    "static/js/main.2de346ce.js"
+  ]
+}
